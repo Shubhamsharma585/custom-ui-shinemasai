@@ -28,3 +28,20 @@ class Example extends Component {
 ## License
 
 MIT © [Shubhamsharma585](https://github.com/Shubhamsharma585)
+
+
+#Advanced Search Bar
+Description:- 
+This is advanced search bar library made by shubham (gitgub:- Shubhamsharma585) and team lithium.
+
+(teammembers:
+shubhamSharma ::Shubhamsharma585, 
+ankitBajpai ::ankitbajpai1607, 
+deepakHedge ::Dee-Hegde, 
+vineshNair ::Vinesh3124)  
+under the guidence of Albert (Instructor) in masai school as a learning objective.
+
+
+Use:-
+Library Component takes function "getbundle" and in output it gives a object with three key-value pairs.
+Developer can use it to quickly make advanced search bar.
